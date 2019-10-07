@@ -69,3 +69,5 @@ void main()
 	fclose(f1);
 	system("pause");
 }
+
+//vetka
